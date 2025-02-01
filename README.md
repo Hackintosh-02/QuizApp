@@ -38,7 +38,7 @@ A web-based quiz application. This app fetches quiz data from an external API an
 ---
 
 ## 📷 Screenshots
-📸 **[Add screenshots of the app here]**
+📸 ****
 1️⃣ Start Screen  
 ![Screenshot from 2025-02-01 16-47-28](https://github.com/user-attachments/assets/3f7c474e-f3c4-4c91-944f-44c51bb3123b)
 
