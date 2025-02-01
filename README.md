@@ -73,7 +73,5 @@ VITE_API_URL=http://localhost:5000/api/quiz
 ```bash
 npm start
 ```
-
 ## 📽 Demo Video
-🎥 Watch the demo: [Click here]([https://drive.google.com/file/d/FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1WfArnjx6K-ey-U1EYvHudKj4cQBR0AB0/view?usp=sharing))
-
+🎥 Watch the demo: [Click here](https://drive.google.com/file/d/1WfArnjx6K-ey-U1EYvHudKj4cQBR0AB0/view?usp=sharing)
